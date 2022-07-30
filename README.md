@@ -3,8 +3,8 @@
 Taller 1 JS
 
 El siguiente repositorio tiene como finalidad mostrar los ejercicios resueltos del taller 1 de JS presentado en clases.
-El taller está presentado en varios archivos, el cual está denominado por una carpeta nombrada src;
-en esta encontrarás un archivo llamado index.HTML y una carpeta assets en esta se encuentran los puntos resueltos del taller.
+El taller presenta varios archivos, el cual está denominado por una carpeta nombrada src
+en esta encontrarás un archivo llamado index.HTML y una carpeta assets en aquella están los puntos resueltos del taller.
 
 Adjunto algunas de las evidencias del taller.
 
